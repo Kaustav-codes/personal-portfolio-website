@@ -12,6 +12,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this site showcases who I am,
 <img width="1916" height="998" alt="portfolioss1" src="https://github.com/user-attachments/assets/111a494b-0aff-49dd-8275-d5868f51a519" />
 <img width="1911" height="981" alt="portfolioss2" src="https://github.com/user-attachments/assets/883df826-0628-40d2-b2e6-b3375f238222" />
 <img width="1919" height="993" alt="ss3" src="https://github.com/user-attachments/assets/f0b233ce-01a3-4968-b3d4-87554e0ec272" />
+<img width="1916" height="996" alt="ss4" src="https://github.com/user-attachments/assets/f912faef-b173-46ca-a705-eae358e3a61f" />
 
 ---
 
